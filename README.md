@@ -1,7 +1,7 @@
 # Tailwind-Microsoft-website-clone
 
 ## Live Demo of website
-* https://sad-dubinsky-fc68cf.netlify.app
+* https://microsoft-clone-tailwind-css.netlify.app
 
 ## connect with me:
 * https://www.linkedin.com/in/pushpak-raut-075738170/
