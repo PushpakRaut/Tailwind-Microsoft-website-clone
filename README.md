@@ -1,7 +1,5 @@
 # Tailwind-Microsoft-website-clone
 
-## Live Demo of website
-* https://microsoft-tailwind-ui.netlify.app/
 
 ## connect with me:
 * https://www.linkedin.com/in/pushpak-raut-075738170/
